@@ -4,7 +4,7 @@
     "build": "webpack --config webpack.config.js -p"
   },
   "dependencies": {
-    "angular": "^1.7.8",
+    "angular": "^1.7.9",
     "angular-ui-router": "^1.0.23",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
